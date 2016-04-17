@@ -58,7 +58,7 @@ Please set a callback URL on LINE Business Center like following.
 
 Please set Fixie IPs to server IP Whitelist on LINE Business Center like following.
 
-> xxx.xxx.xxx.xxx/24
+> xxx.xxx.xxx.xxx/24  
 > yyy.yyy.yyy.yyy/24
 
 Set a contentEndpoint on `./scripts/line.coffee` file.
